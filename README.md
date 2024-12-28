@@ -64,20 +64,20 @@ Planned improvements for **Kriwni** include:
 
 Homepage:
 
-![HOME](c:\CODE\AUI-Projects\kriwni\Screenshots\HOMEPAGE.png)
+![HOME](\kriwni\Screenshots\HOMEPAGE.png)
 
 Properties:
 
-![PROPERTIES](c:\CODE\AUI-Projects\kriwni\Screenshots\PROPERTIES1.png)
-![PROPERTIES](c:\CODE\AUI-Projects\kriwni\Screenshots\PROPERTIES2.png)
+![PROPERTIES](\kriwni\Screenshots\PROPERTIES1.png)
+![PROPERTIES](\kriwni\Screenshots\PROPERTIES2.png)
 
 My Bookings:
 
-![BOOKINGS](c:\CODE\AUI-Projects\kriwni\Screenshots\BOOKINGS.png)
+![BOOKINGS](\kriwni\Screenshots\BOOKINGS.png)
 
 Reviews:
 
-![REVIEWS](c:\CODE\AUI-Projects\kriwni\Screenshots\REVIEWS.png)
+![REVIEWS](\kriwni\Screenshots\REVIEWS.png)
 
 ---
 
