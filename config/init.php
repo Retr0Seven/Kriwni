@@ -1,6 +1,6 @@
 <?php
 $server = "localhost";
-$user = "retro";
-$password = "@@ReTr07%$$";
+$user = "xxxxx";            // your username
+$password = "xxxxxxxxxxx";  // your password
 $db = "kriwni";
 ?>
