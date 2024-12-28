@@ -27,25 +27,33 @@ The primary audience for **Kriwni** is tourists who are looking for an easy and 
 
 ---
 
-## Setup Instructions
+## Deployment
 
-To run this project locally, follow these steps:
+- First Download and Install :
 
-1. **Install MySQL Workbench**:  
-   Ensure MySQL Workbench is installed on your machine to manage the database.
+    + MySQL Workbench: 
+        https://dev.mysql.com/downloads/file/?id=534624
 
-2. **Import the Database**:
+    + PHP (Non-Thread Safe zipped folder):
+        https://windows.php.net/download/
 
-   - Locate the provided `kriwni.sql` file in the project.
-   - Import it into MySQL Workbench to set up the necessary tables and data.
+- Add the path to "both" folders to your system “Path” environment variable
 
-3. **Install PHP**:  
-   Install PHP on your local machine if it’s not already available.
+- Import & Create the Database:
 
-4. **Run a Local Server**:  
-   Use tools like XAMPP, WAMP, or MAMP to run a PHP-based local server. Place the project folder in the server's root directory (e.g., htdocs for XAMPP).
-5. **Access the Application**:  
-   Open your web browser and navigate to `http://localhost:8000/kriwni` (or the appropriate directory name).
+     + Locate the provided kriwni.sql file in the project.
+     + Run the provided code in the sql file into Workbench
+
+- To deploy this project locally run (inside the project folder "kriwni")
+
+```bash
+  php -S localhost:8000
+```
+- Then in your browser search bar type
+
+```bash
+  http://localhost:8000/kriwni/
+```
 
 ---
 
@@ -64,24 +72,25 @@ Planned improvements for **Kriwni** include:
 
 Homepage:
 
-![HOME](\kriwni\Screenshots\HOMEPAGE.png)
+![HOME](Screenshots/HOMEPAGE.png)
 
 Properties:
 
-![PROPERTIES](\kriwni\Screenshots\PROPERTIES1.png)
-![PROPERTIES](\kriwni\Screenshots\PROPERTIES2.png)
+![PROPERTIES](Screenshots/PROPERTIES1.png)
+![PROPERTIES](Screenshots/PROPERTIES2.png)
 
 My Bookings:
 
-![BOOKINGS](\kriwni\Screenshots\BOOKINGS.png)
+![BOOKINGS](Screenshots/BOOKINGS.png)
 
 Reviews:
 
-![REVIEWS](\kriwni\Screenshots\REVIEWS.png)
+![REVIEWS](Screenshots/REVIEWS.png)
 
 ---
 
 ## Credits
 
-Developed by: @ReTr0Seven
+Developed by: [@ReTr0Seven](https://www.github.com/ReTr0Seven)
+
 Email: ip.retr07.user@gmail.com
