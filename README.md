@@ -61,7 +61,7 @@ The primary audience for **Kriwni** is tourists who are looking for an easy and 
 
 Planned improvements for **Kriwni** include:
 
-- Enhanced filtering options for properties (e.g., by location, price range, or amenities).
+- Enhanced filtering options for properties (e.g., price range, or amenities).
 - User authentication and account management.
 - Real-time property availability updates.
 - Integration with payment gateways.
