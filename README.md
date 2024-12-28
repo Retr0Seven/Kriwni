@@ -64,11 +64,11 @@ Planned improvements for **Kriwni** include:
 
 Homepage:
 
-![HOME](\kriwni\Screenshots\HOMEPAGE.png)
+![HOME](kriwni/Screenshots/HOMEPAGE.png)
 
 Properties:
 
-![PROPERTIES](\kriwni\Screenshots\PROPERTIES1.png)
+![PROPERTIES](kriwni\Screenshots\PROPERTIES1.png)
 ![PROPERTIES](\kriwni\Screenshots\PROPERTIES2.png)
 
 My Bookings:
